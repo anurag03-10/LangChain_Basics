@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = https://github.com/anurag03-10/LangChain_Basics.git
+	tagOpt = --no-tags
+	fetch = +refs/*:refs/*
+	mirror = true
